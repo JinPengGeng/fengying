@@ -1,6 +1,6 @@
 # fengying
 
-Website: [fengying.tech](fengying.tech)
+Website: [fengying.tech](http://fengying.tech)
 
 This git registory is store my website source code.
 

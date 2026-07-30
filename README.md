@@ -1,6 +1,7 @@
-# Proxifly Clash Subscription
+# free-oversea-node
 
 利用 proxifly/free-proxy-list 的免费 HTTP/SOCKS5 代理自动生成 Clash/mihomo 订阅配置。
+后续会逐渐添加其他仓库，形成免费的节点池
 
 ## 如何使用
 
